@@ -55,4 +55,4 @@ On a new branch called `flashing`, write code to change each tile's color to a n
 
 ###Bonus: Audio
 
-Get some audio playing to accompany your trippy visuals, using only JS.  No editing the HTML!
+Get some audio playing to accompany your trippy visuals, using only JS.  No editing the HTML!Alias && Akiko
